@@ -1,0 +1,51 @@
+[10:24:42]  Book Issued to Student ID 101
+[10:25:01]  Book Returned by Student ID 102
+[10:25:15]  New Member Registered: Rohit Patil
+[10:25:28]  Book Added: The Alchemist
+[10:25:42]  Book Issued to Student ID 103
+[10:26:05]  Book Search: Harry Potter
+[10:26:18]  Book Deleted: Inferno
+[10:26:30]  Student Added to Waiting List ID 104
+[10:26:45]  Student Removed from Waiting List ID 104
+[10:27:00]  Fine Paid by Student ID 105
+[10:27:12]  Login Successful: User 106
+[10:27:25]  Logout Event: User 106
+[10:27:40]  Book Issued to Student ID 107
+[10:27:55]  Book Returned by Student ID 108
+[10:28:10]  New Member Registered: Sneha Joshi
+[10:28:25]  Book Added: Atomic Habits
+[10:28:40]  Book Search: Ikigai
+[10:28:55]  Book Issued to Student ID 109
+[10:29:10]  Book Returned by Student ID 110
+[10:29:25]  Student Added to Waiting List ID 111
+[10:29:40]  Fine Paid by Student ID 112
+[10:29:55]  Login Successful: User 113
+[10:30:10]  Logout Event: User 113
+[10:30:25]  Book Deleted: Twilight
+[10:30:40]  Book Added: Rich Dad Poor Dad
+[10:30:55]  Book Issued to Student ID 114
+[10:31:10]  Book Returned by Student ID 115
+[10:31:25]  New Member Registered: Rahul More
+[10:31:40]  Book Search: The Hobbit
+[10:31:55]  Student Removed from Waiting List ID 116
+[10:32:10]  Fine Paid by Student ID 117
+[10:32:25]  Login Successful: User 118
+[10:32:40]  Logout Event: User 118
+[10:32:55]  Book Issued to Student ID 119
+[10:33:10]  Book Returned by Student ID 120
+[10:33:25]  Book Added: The Power of Habit
+[10:33:40]  Book Deleted: 1984
+[10:33:55]  New Member Registered: Priya Deshmukh
+[10:34:10]  Book Search: Sapiens
+[10:34:25]  Student Added to Waiting List ID 121
+[10:34:40]  Fine Paid by Student ID 122
+[10:34:55]  Login Successful: User 123
+[10:35:10]  Logout Event: User 123
+[10:35:25]  Book Issued to Student ID 124
+[10:35:40]  Book Returned by Student ID 125
+[10:35:55]  Book Added: The Secret
+[10:36:10]  Book Deleted: Dracula
+[10:36:25]  New Member Registered: Kunal Shinde
+[10:36:40]  Book Search: The Kite Runner
+[10:36:55]  Fine Paid by Student ID 126
+[10:37:10]  Student Removed from Waiting List ID 127
